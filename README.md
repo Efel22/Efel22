@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on personal projects related to video game design <br>and development using Unity. I’m passionate about helping others in this<br>field however I can, whether through collaboration, sharing knowledge, or<br>offering feedback. Right now, I’m particularly interested in improving <br>AI algorithms for enemy behaviors and would love guidance or <br>resources on the topic. I’m actively learning Unity and eager to expand <br>my skills in game development.
+I’m currently working on personal projects related to video game design <br>and development using Unity. I’m passionate about helping others in this<br>field however I can, whether through collaboration, sharing knowledge, or<br>offering feedback. Right now, I’m particularly interested in improving <br>AI algorithms for enemy behaviors and procedural generation and would love guidance or <br>resources on the topic. I’m actively learning Unity and eager to expand <br>my skills in game development.
 
 
 ## 🌐 Socials:
