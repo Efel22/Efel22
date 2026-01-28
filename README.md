@@ -5,7 +5,7 @@ I’m a Computer Science student and game developer with a strong interest in **
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-feliciano-canals/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:feliciano.eliel.pr@gmail.com) 
 
-## 📌 ePortfolio:
+## 📌 Portfolio:
 https://sites.google.com/view/eportfolio-elielfeliciano/home
 
 # 💻 Tech Stack:
